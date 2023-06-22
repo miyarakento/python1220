@@ -1,0 +1,3 @@
+words = ["the" , "fox" , "jumped" , "ocer" , "the" , "fance" , "."
+one = " " .join(words)
+print(one)
